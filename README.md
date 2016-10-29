@@ -3,7 +3,7 @@
 
 # Welcome to Algorithm and Data Structure Notes :clipboard:
 
-Our open source community is focussed on understanding the concepts and while doing so, whenever someone gets trapped, they can see one way to code in any language they want. So, we are developing a repository having implementation in as many languages as we can.
+It is repository on the tutorials of data structures.Our open source community is focussed on understanding the concepts and while doing so, whenever someone gets trapped, they can see one way to code in any language they want. So, we are developing a repository having implementation in as many languages as we can.
 
 > [Index](https://github.com/jainaman224/Algo_Ds_Notes/blob/master/Index.md)
 
